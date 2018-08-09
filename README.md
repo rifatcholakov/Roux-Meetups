@@ -6,7 +6,7 @@ Full-featured meetup web app created with <a href="https://expressjs.com/">Expre
 * real-time live chat
 
 # Demo
-https://glacial-harbor-48197.herokuapp.com/
+https://enigmatic-hamlet-89874.herokuapp.com/
 
 # Getting Started
 1. Make sure you have these installed
